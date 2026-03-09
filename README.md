@@ -3,10 +3,6 @@
 A comprehensive sales analytics dashboard built using Microsoft Excel 
 to analyze and visualize business sales data effectively.
 
----
-
-## 🖼️ Preview
-![Dashboard Preview](dashboard_preview.png)
 
 ---
 
